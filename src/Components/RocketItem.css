@@ -1,0 +1,41 @@
+.item-container {
+  margin: 0 auto;
+  padding: 40px 0;
+  width: 900px;
+}
+
+.information {
+  align-items: flex-start;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.information h2 {
+  margin-top: 0;
+}
+
+.information h3 {
+  margin-top: 40px;
+}
+
+.information img,
+.information div {
+  display: block;
+  text-align: left;
+  width: 48%;
+}
+
+.information img {
+  height: auto;
+  margin-bottom: 20px;
+}
+
+button {
+  background-color: #181c1f;
+  border-radius: 6px;
+  color: #fff;
+  cursor: pointer;
+  font-size: 16px;
+  padding: 8px 16px;
+}
