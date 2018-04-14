@@ -1,6 +1,6 @@
 # Workshop | Introduction to React
 
-## Execution
+## Usage
 
 **Note: If you don't have installed none of them, you can [install NPM](https://www.npmjs.com/get-npm) or [yarn](https://yarnpkg.com/lang/en/docs/install/).**
 
